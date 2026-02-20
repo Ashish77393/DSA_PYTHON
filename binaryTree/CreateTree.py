@@ -17,4 +17,4 @@ cold.left=cola
 cold.right=fanta
 drinks.left=hot
 drinks.right=cold
-print(drinks.left.left)
+print(drinks.left)
